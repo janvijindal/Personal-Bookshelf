@@ -1,0 +1,36 @@
+.heading{
+    font-size:3rem;
+    font-weight: 700;
+}
+
+
+.book-search-page {
+  position: relative;
+  text-align: center;
+  
+}
+
+input {
+  width: 20%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color:red;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 5px;
+}
+
+button:hover {
+  background-color: red;
+}
+
+
